@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Codomax Digital Solutions — AI & Python Internship</b>
+  <b>Codomax Digital Solutions — AI & ML Internship</b>
 </p>
 
 ---
@@ -229,7 +229,7 @@ Artificial Intelligence, Machine Learning, and Deep Learning are closely related
 
 <p align="center">
   <strong>Fatima</strong><br>
-  Cybersecurity | SQROCK IT SOLUTION-Internship (Aug-Sep 2026 Batch)
+  AI & ML | Codomax Digital solutions | Internship (Aug 2026 Batch)
 </p>
 
 <p align="center">
