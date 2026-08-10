@@ -177,7 +177,7 @@ Day 1 provided a foundation for understanding Artificial Intelligence and Machin
 
 <p align="center">
   <strong>Fatima</strong><br>
-  Cybersecurity | SQROCK IT SOLUTION-Internship (Aug-Sep 2026 Batch)
+  AI & ML | Codomax Digital Solutions | Internship (Aug 2026 Batch)
 </p>
 
 <p align="center">
