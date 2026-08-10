@@ -1,1 +1,1 @@
-# Codomax-Internship
+# Codomax Digital Solution-Internship
