@@ -1,6 +1,6 @@
 # 🚀 Module 4 — Codomax Digital Solutions Internship
 
-# 🤖 Day 13 — Machine Learning Workflow
+# Day 13 — Machine Learning Workflow
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=for-the-badge)](https://scikit-learn.org/)
@@ -211,46 +211,6 @@ The model predicts the target class for new or unseen data.
 ### 8. Evaluate Results
 
 The predictions are compared with the actual target values to understand model performance.
-
----
-
-## 💻 Practical Implementation
-
-The following Python program was created for understanding the initial Machine Learning workflow:
-
-```python
-from sklearn.datasets import load_iris
-
-# Step 1: Load Dataset
-iris = load_iris()
-
-print("===== MACHINE LEARNING WORKFLOW =====")
-
-# Dataset information
-print("\nDataset Loaded Successfully")
-print("Number of Samples:", len(iris.data))
-print("Number of Features:", len(iris.feature_names))
-
-# Display features
-print("\nFeatures:")
-for feature in iris.feature_names:
-    print("-", feature)
-
-# Display target classes
-print("\nTarget Classes:")
-for target in iris.target_names:
-    print("-", target)
-
-# Display first sample
-print("\nFirst Sample:")
-print(iris.data[0])
-
-# Display corresponding target
-print("\nFirst Sample Class:")
-print(iris.target_names[iris.target[0]])
-
-print("\nMachine Learning Workflow Introduction Completed!")
-```
 
 ---
 
