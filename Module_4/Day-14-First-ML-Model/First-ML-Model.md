@@ -3,9 +3,9 @@
 # Day 14 — Train Your First Machine Learning Model
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?style=for-the-badge)
+[![Training](https://img.shields.io/badge/Topic-Model%20Training-green?style=for-the-badge)](https://scikit-learn.org/stable/modules/cross_validation.html)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML%20-orange?style=for-the-badge)
 ![Model](https://img.shields.io/badge/Model-KNN-purple?style=for-the-badge)
-![Dataset](https://img.shields.io/badge/Dataset-Iris-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
