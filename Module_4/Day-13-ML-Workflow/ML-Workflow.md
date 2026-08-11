@@ -2,9 +2,10 @@
 
 # 🤖 Day 13 — Machine Learning Workflow
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?style=for-the-badge)
-![Dataset](https://img.shields.io/badge/Dataset-Iris-green?style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=for-the-badge)](https://scikit-learn.org/)
+[![Machine Learning](https://img.shields.io/badge/Topic-Machine%20Learning-blue?style=for-the-badge)](https://scikit-learn.org/stable/getting_started.html)
+[![Iris Dataset](https://img.shields.io/badge/Dataset-Iris-green?style=for-the-badge)](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
