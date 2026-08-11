@@ -1,0 +1,47 @@
+import numpy as np
+
+marks = np.array([80, 75, 90, 85, 70])
+
+print("Student Marks:")
+print(marks)
+
+print("Total Marks:", np.sum(marks))
+print("Average Marks:", np.mean(marks))
+print("Highest Marks:", np.max(marks))
+print("Lowest Marks:", np.min(marks))
+
+import pandas as pd
+
+data = {
+    "Name": ["Ali", "Sara", "Ahmed", "Ayesha", "Usman"],
+    "Marks": [85, 92, 78, 88, 65],
+    "Attendance": [90, 95, 80, 92, 75]
+}
+
+df = pd.DataFrame(data)
+
+print("\nStudent Dataset:")
+print(df)
+
+print("\nFirst 5 Rows:")
+print(df.head())
+
+print("\nDataset Information:")
+print(df.info())
+
+print("\nStatistical Summary:")
+print(df.describe())
+
+print("\nMarks:")
+print(df["Marks"])
+
+print("\nStudent Names:")
+print(df["Name"])
+
+print("\nAverage Marks:", df["Marks"].mean())
+
+print("Highest Marks:", df["Marks"].max())
+
+print("Lowest Marks:", df["Marks"].min())
+
+print("Total Marks:", df["Marks"].sum())
