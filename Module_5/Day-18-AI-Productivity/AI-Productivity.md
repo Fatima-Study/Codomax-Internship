@@ -1,4 +1,4 @@
-# 🤖 Module 5 — Codomax Digital Solutions Internship
+# Module 5 — Codomax Digital Solutions Internship
 
 # 💻 Day 18 — AI for Coding, Research & Productivity
 
